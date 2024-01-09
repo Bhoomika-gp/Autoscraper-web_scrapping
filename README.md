@@ -6,8 +6,8 @@ This repository contains a Python script that leverages the autoscraper library 
 # Prerequisites
 To run this script, ensure you have the following installed:
 
-Python (version X.X)
-Autoscraper (version X.X)
+Python (version 3.9)
+Autoscraper (version 1.2)
 
 # Installation
 1. Clone this repository:
